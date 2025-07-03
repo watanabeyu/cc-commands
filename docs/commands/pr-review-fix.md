@@ -1,3 +1,11 @@
+<div style="margin-bottom: 20px;">
+  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/pr-review-fix.md" 
+     target="_blank"
+     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
+    📄 View Raw
+  </a>
+</div>
+
 # PR Review Fix
 
 PRレビュー対応のスペシャリストとして、レビューコメントを分析し適切な修正を支援します。

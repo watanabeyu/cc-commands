@@ -1,3 +1,11 @@
+<div style="margin-bottom: 20px;">
+  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/gemini-search.md" 
+     target="_blank"
+     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
+    📄 View Raw
+  </a>
+</div>
+
 # Gemini Search
 
 Use Google Gemini CLI for web searches.
