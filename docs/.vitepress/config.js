@@ -23,8 +23,13 @@ export default defineConfig({
         text: 'Commands',
         items: [
           { text: 'Overview', link: '/commands/' },
-          { text: 'Installation', link: '/commands/installation' },
-          { text: 'Usage', link: '/commands/usage' }
+          { text: 'Code Analysis', items: [
+            { text: 'Check Similarity', link: '/commands/check-similarity' }
+          ]},
+          { text: 'GitHub Integration', items: [
+            { text: 'Issue Create', link: '/commands/issue-create' },
+            { text: 'PR Create', link: '/commands/pr-create' }
+          ]}
         ]
       }
     ],
