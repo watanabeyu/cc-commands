@@ -28,7 +28,13 @@ export default defineConfig({
           ]},
           { text: 'GitHub Integration', items: [
             { text: 'Issue Create', link: '/commands/issue-create' },
-            { text: 'PR Create', link: '/commands/pr-create' }
+            { text: 'Issue Update', link: '/commands/issue-update' },
+            { text: 'PR Create', link: '/commands/pr-create' },
+            { text: 'PR Update', link: '/commands/pr-update' },
+            { text: 'PR Review Fix', link: '/commands/pr-review-fix' }
+          ]},
+          { text: 'Search', items: [
+            { text: 'Gemini Search', link: '/commands/gemini-search' }
           ]}
         ]
       }

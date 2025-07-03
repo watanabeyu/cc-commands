@@ -9,7 +9,13 @@ Welcome to the Claude Code Commands collection. This repository contains various
 
 ### GitHub Integration
 - **[Issue Create](/commands/issue-create)** - 要件定義のスペシャリストとして、対話形式で要件を深掘りしGitHub issueを作成
+- **[Issue Update](/commands/issue-update)** - 既存のGitHub issueを更新するために、要件を深掘り・改善
 - **[PR Create](/commands/pr-create)** - Pull Request作成のスペシャリストとして、issueに基づいたPR作成をサポート
+- **[PR Update](/commands/pr-update)** - 既存PRの内容を確認し、適切なdescriptionを作成・更新
+- **[PR Review Fix](/commands/pr-review-fix)** - PRレビューコメントを分析し、適切な修正を支援
+
+### Search
+- **[Gemini Search](/commands/gemini-search)** - Use Google Gemini CLI for web searches
 
 ## How to Use
 
