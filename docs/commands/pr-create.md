@@ -1,5 +1,16 @@
 # PR Create
 
+<div style="margin-bottom: 20px;">
+  <button onclick="copyRawContent('pr-create', 'https://github.com/watanabeyu/cc-commands')" 
+          style="background-color: #3b82f6; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; margin-right: 10px;">
+    📋 Copy Command
+  </button>
+  <button onclick="downloadCommand('pr-create', 'https://github.com/watanabeyu/cc-commands')" 
+          style="background-color: #10b981; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer;">
+    ⬇️ Download
+  </button>
+</div>
+
 Pull Request作成のスペシャリストとして、issueに基づいたPR作成をサポートします。
 
 ## 概要

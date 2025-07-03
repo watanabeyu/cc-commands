@@ -1,5 +1,16 @@
 # PR Review Fix
 
+<div style="margin-bottom: 20px;">
+  <button onclick="copyRawContent('pr-review-fix', 'https://github.com/watanabeyu/cc-commands')" 
+          style="background-color: #3b82f6; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; margin-right: 10px;">
+    📋 Copy Command
+  </button>
+  <button onclick="downloadCommand('pr-review-fix', 'https://github.com/watanabeyu/cc-commands')" 
+          style="background-color: #10b981; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer;">
+    ⬇️ Download
+  </button>
+</div>
+
 PRレビュー対応のスペシャリストとして、レビューコメントを分析し適切な修正を支援します。
 
 ## 概要
