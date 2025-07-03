@@ -1,16 +1,5 @@
 # PR Update
 
-<div style="margin-bottom: 20px;">
-  <button onclick="copyRawContent('pr-update', 'https://github.com/watanabeyu/cc-commands')" 
-          style="background-color: #3b82f6; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; margin-right: 10px;">
-    📋 Copy Command
-  </button>
-  <button onclick="downloadCommand('pr-update', 'https://github.com/watanabeyu/cc-commands')" 
-          style="background-color: #10b981; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer;">
-    ⬇️ Download
-  </button>
-</div>
-
 Pull Requestのドキュメント作成スペシャリストとして、PR descriptionを作成・更新します。
 
 ## 概要

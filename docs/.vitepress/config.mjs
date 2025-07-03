@@ -1,9 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  head: [
-    ['script', { src: '/download.js' }]
-  ],
   title: 'Claude Code Commands',
   description: 'Collection of custom commands for Claude Code',
   base: '/cc-commands/',
