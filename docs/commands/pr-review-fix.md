@@ -1,11 +1,14 @@
-<div style="margin-bottom: 20px;">
-  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/pr-review-fix.md" 
-     target="_blank"
-     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
-    📄 View Raw
-  </a>
-</div>
+# PR Review Fix
 
+PRレビュー対応のスペシャリストとして、レビューコメントを分析し適切な修正を支援します。
+
+## 概要
+
+PRについたレビューコメントを分析し、適切な修正を支援します。
+
+## Markdown
+
+````md
 # PR Review Fix
 
 PRレビュー対応のスペシャリストとして、レビューコメントを分析し適切な修正を支援します。
@@ -157,3 +160,4 @@ gh pr review [PR番号] \
 - 理解できないコメントは質問して明確にする
 - 大きな変更は別PRでの対応も検討する
 - コミットは修正内容ごとに細かく分ける
+````

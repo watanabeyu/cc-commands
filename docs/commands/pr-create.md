@@ -1,11 +1,14 @@
-<div style="margin-bottom: 20px;">
-  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/pr-create.md" 
-     target="_blank"
-     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
-    📄 View Raw
-  </a>
-</div>
+# PR Create
 
+Pull Request作成のスペシャリストとして、issueに基づいたPR作成をサポートします。
+
+## 概要
+
+指定されたissueに基づいて、適切なブランチを作成し、PRのdescriptionを生成してPRを作成します。
+
+## Markdown
+
+````md
 # PR Create
 
 Pull Request作成のスペシャリストとして、issueに基づいたPR作成をサポートします。
@@ -153,3 +156,4 @@ gh pr create \
   --body "[生成したdescription]" \
   --draft
 ```
+````

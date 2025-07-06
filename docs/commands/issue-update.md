@@ -1,11 +1,14 @@
-<div style="margin-bottom: 20px;">
-  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/issue-update.md" 
-     target="_blank"
-     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
-    📄 View Raw
-  </a>
-</div>
+# Issue Update
 
+要件定義のスペシャリストとして、既存のGitHub issueを更新します。
+
+## 概要
+
+既存のGitHub issueを更新するために、ユーザーと対話しながら要件を深掘り・改善します。
+
+## Markdown
+
+````md
 # Issue Update
 
 要件定義のスペシャリストとして、既存のGitHub issueを更新します。
@@ -92,3 +95,4 @@ gh issue comment [issue番号] \
 - 既存の議論やコメントの文脈を考慮する
 - 大幅な変更の場合は、理由を明確にする
 - エンジニアが既に実装を始めている可能性を考慮し、影響範囲を明示する
+````

@@ -1,11 +1,14 @@
-<div style="margin-bottom: 20px;">
-  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/pr-update.md" 
-     target="_blank"
-     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
-    📄 View Raw
-  </a>
-</div>
+# PR Update
 
+Pull Requestのドキュメント作成スペシャリストとして、PR descriptionを作成・更新します。
+
+## 概要
+
+既存のPRの内容を確認し、実装内容に基づいて適切なdescriptionを作成・更新します。
+
+## Markdown
+
+````md
 # PR Update
 
 Pull Requestのドキュメント作成スペシャリストとして、PR descriptionを作成・更新します。
@@ -123,3 +126,4 @@ gh pr edit [PR番号] \
 - テクニカルすぎず、レビュアーが理解しやすい表現を使う
 - チェックリスト形式で確認しやすくする
 - 画像やGIFがある場合は積極的に活用を提案する
+````

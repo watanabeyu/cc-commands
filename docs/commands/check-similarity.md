@@ -1,11 +1,14 @@
-<div style="margin-bottom: 20px;">
-  <a href="https://raw.githubusercontent.com/watanabeyu/cc-commands/main/docs/commands/check-similarity.md" 
-     target="_blank"
-     style="display: inline-block; background-color: #6b7280; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px;">
-    📄 View Raw
-  </a>
-</div>
+# Check Similarity
 
+AI Assistant Guide for detecting duplicate TypeScript/JavaScript code using AST comparison.
+
+## Purpose
+
+Detects duplicate TypeScript/JavaScript code using AST comparison for refactoring.
+
+## Markdown
+
+````md
 # Check Similarity
 
 AI Assistant Guide for detecting duplicate TypeScript/JavaScript code using AST comparison.
@@ -107,3 +110,4 @@ Similarity: 85%
 - Check if similar functions are in same module (easier to refactor)
 - Consider function size - larger duplicates have more impact
 - Look for patterns across multiple files, not just pairs
+````
