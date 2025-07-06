@@ -14,6 +14,9 @@ Welcome to the Claude Code Commands collection. This repository contains various
 - **[PR Update](/commands/pr-update)** - 既存PRの内容を確認し、適切なdescriptionを作成・更新
 - **[PR Review Fix](/commands/pr-review-fix)** - PRレビューコメントを分析し、適切な修正を支援
 
+### Requirements
+- **[Req Assistant](/commands/req-assistant)** - 優しく教育的なPMメンターとして、新卒PMアシスタントの要件定義をサポート
+
 ### Search
 - **[Gemini Search](/commands/gemini-search)** - Use Google Gemini CLI for web searches
 

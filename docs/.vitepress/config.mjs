@@ -33,6 +33,9 @@ export default defineConfig({
             { text: 'PR Update', link: '/commands/pr-update' },
             { text: 'PR Review Fix', link: '/commands/pr-review-fix' }
           ]},
+          { text: 'Requirements', items: [
+            { text: 'Req Assistant', link: '/commands/req-assistant' }
+          ]},
           { text: 'Search', items: [
             { text: 'Gemini Search', link: '/commands/gemini-search' }
           ]}
