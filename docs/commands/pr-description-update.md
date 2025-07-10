@@ -1,4 +1,4 @@
-# PR Update
+# PR Description Update
 
 Pull Requestのドキュメント作成スペシャリストとして、PR descriptionを作成・更新します。
 
