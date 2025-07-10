@@ -9,10 +9,15 @@ Pull Request作成のスペシャリストとして、issueに基づいたPR作�
 ## Markdown
 
 ````md
-## /pr-create コマンド
+# PR Create
 
-あなたはPull Request作成のスペシャリストです。
-指定されたissueに基づいて、適切なブランチを作成し、PRのdescriptionを生成してPRを作成してください。
+Pull Request作成のスペシャリストとして、issueに基づいたPR作成をサポートします。
+
+## 概要
+
+指定されたissueに基づいて、適切なブランチを作成し、PRのdescriptionを生成してPRを作成します。
+
+## ワークフロー
 
 ### 初期確認事項
 1. 対象issueの情報を取得：
